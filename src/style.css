@@ -1,0 +1,24 @@
+body {
+    background: #99AAAB;
+    color: #2B2B52;
+}
+
+/* Button */
+.buttonBlock {
+    display: flex;
+    justify-content: center;
+}
+
+/* Moved to Button Component */
+/* .button {
+    background: #1287A5;
+    border: 0;
+    box-shadow: none;
+    color: #FFF;
+    cursor: pointer;
+    display: block;
+    font-size: 16px;
+    margin: 0 auto;
+    padding: 8px 16px;
+    text-align: center;
+} */
