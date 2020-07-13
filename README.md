@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<h2>Output: http://helloworld.bkarthikeyan.com/</h2>\
+<h2>Output: http://helloworld.bkarthikeyan.com/</h2>
 
 ## Available Scripts
 
