@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <h2>Output</h2>
-<a href="http://helloworld.bkarthikeyan.com/” target=“_blank”>React Helloworld App</a>
+<h2><a href="http://helloworld.bkarthikeyan.com/” target=“_blank”>React Helloworld App</a></h2>
 
 ## Available Scripts
 
